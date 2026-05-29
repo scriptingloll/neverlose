@@ -1,3 +1,3 @@
 getgenv().SCRIPT_KEY = "KEYLESS"
 
-loadstring(game:HttpGet("https://gist.githubusercontent.com/scriptingloll/071753b9344f4d6cc99331eb6185eaf0/raw/6b0bbd86e76f5e10fea3097224a868fa828d31a8/shit.luau"))()
+loadstring(game:HttpGet("https://gist.githubusercontent.com/scriptingloll/ebba65034408b34a6ab1c5d152f14319/raw/142794592dea6439818a7dd8b5ecd317ed53a068/shit.luau"))()
