@@ -1,0 +1,1 @@
+A roblox script for the game "timebomb duels" with speed for closet cheating and also blatant cheating a combination of both because you can change the speed of the speed, and also target tracking to make it easier to chase niggas down <3
